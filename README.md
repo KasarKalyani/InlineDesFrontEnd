@@ -8,6 +8,6 @@ npm install
 
 npm run dev
 
-navigate to /AllTickets.js
+navigate to /AllTickets
 
 Click on each tile will give related content description on same page
